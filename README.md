@@ -1,5 +1,5 @@
 # Publications
-**Z. Deng**, N. Raviv, “Efficient Vector Symbolic Architectures from Histogram Recovery”,  To appear in IEEE International Symposium on Information Theory (ISIT), 2026.
+**Z. Deng**, N. Raviv, “Efficient Vector Symbolic Architectures from Histogram Recovery,” To appear in IEEE International Symposium on Information Theory (ISIT), 2026.
 
 S. Tarnopolsky, **Z. Deng**, V. Ramkumar, N. Raviv, and A. Cohen, “Individual Confidential Computing of Polynomials Over Non-Uniform Information,” IEEE International Symposium on Information Theory (ISIT), 2025.
 
@@ -7,4 +7,4 @@ S. Tarnopolsky, **Z. Deng**, V. Ramkumar, N. Raviv, and A. Cohen, “Individual 
 
 **Z. Deng**, V. Ramkumar, N. Raviv, "Perfect Subset Privacy in Polynomial Computation," IEEE International Symposium on Information Theory (ISIT), 2024.
 
-**Z. Deng**, N. Raviv, “Approximate Private Inference in Quantized Models”,  IEEE International Symposium on Information Theory (ISIT), 2023.
+**Z. Deng**, N. Raviv, “Approximate Private Inference in Quantized Models,” IEEE International Symposium on Information Theory (ISIT), 2023.
